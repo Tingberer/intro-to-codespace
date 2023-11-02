@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://Template.github.io/intro-to-codespace",
+  "homepage": "http://Tingberer.github.io/intro-to-codespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Template.github.io/intro-to-codespace'",
+    "build-gh": "parcel build --public-url 'https://Tingberer.github.io/intro-to-codespace'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
