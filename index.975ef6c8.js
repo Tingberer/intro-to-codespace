@@ -28616,7 +28616,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that.
  * represents what you see in that image.
  *
  *
@@ -28624,7 +28624,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * freely use on your site.
  */ var _matthewPerryJpg = require("../images/Matthew-Perry.jpg");
 var _matthewPerryJpgDefault = parcelHelpers.interopDefault(_matthewPerryJpg);
-const imageAltText = "Matthew Langford Perry (August 19, 1969 - October 28, 2023) was an American and Canadian actor. He starred as Chandler Bing on the NBC television sitcom Friends (1994-2004). ";
+const imageAltText = "Matthew Langford Perry (August 19, 1969 - October 28, 2023) was an American and Canadian actor. He starred as Chandler Bing on the NBC television sitcom Friends (1994-2004).";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
